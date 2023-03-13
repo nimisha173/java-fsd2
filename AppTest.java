@@ -1,4 +1,4 @@
-package ustbatchno3.junit5testcases;
+package ustbatchno3.testng;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
