@@ -1,3 +1,15 @@
+/*viswa samudra is a construction company,they need a software to develop the application for the sales team to communicate with the customer.There is two
+types of category for price table with material 1 squarefeet is 2000rs,without material 900rs.these price are for hyderabad location.
+
+city        price(with)   price(without)
+Tvm          1600          800
+Chennai      1800          1000
+Mumbai       2500          1200
+Kochin       1800          1200
+
+when a acustomer type his city and squarefeet he need to get the total amount for the construction. Write a java8 prgm and implement testNG for the testing.*/
+
+
 package ustbatchno3.testng;
 
 
