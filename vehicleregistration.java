@@ -1,6 +1,9 @@
+
+/* find the state and district of a vehicle by using vehicle registration number
+eg:KL 16 3216---  KL-Kerala,16-Attingal,3216-vehicle no*/
+
+
 package count;
-
-
 
 import java.util.Arrays;
 import java.util.HashMap;
